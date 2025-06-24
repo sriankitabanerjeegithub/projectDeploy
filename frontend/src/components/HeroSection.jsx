@@ -128,7 +128,7 @@
 //updated 3
 // src/components/HeroSection.jsx
 import { motion } from "framer-motion";
-import Hero3D from "./Hero3D";
+import Hero3D from "./Hero3d";
 import myImage from "./images/image.jpg";
 import myImage1 from "./images/about.jpeg";
 import myImage2 from "./images/breat.avif";
