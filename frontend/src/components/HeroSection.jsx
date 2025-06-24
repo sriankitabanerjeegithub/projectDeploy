@@ -156,7 +156,7 @@ export default function HeroSection() {
     },
 
     {
-      title: "Aclivity(Banking managment system)",
+      title: "Acclivity(Banking management system)",
       desc: "Full-stack banking web app built with MERN.",
       imageUrl: myImage3,
       githubUrl: "https://github.com/sriankitabanerjeegithub/acclivity89",
@@ -166,7 +166,7 @@ export default function HeroSection() {
  
     {
       title: "Face emotion recognization",
-      desc: "Full-stack banking web app built with MERN.",
+      desc: "Face emotion recognization powered by ML with python.",
       imageUrl:myImage4 ,
       githubUrl:"//github.com/sriankitabanerjeegithub/Face-emotion-recognizer",
       // no liveDemoUrl for this one
@@ -174,7 +174,7 @@ export default function HeroSection() {
 
     {
       title: "chat application",
-      desc: "Full-stack banking web app built with MERN.",
+      desc: "Full-stack Real time  chat application built with MERN.",
       imageUrl: myImage5,
       githubUrl: "https://github.com/sriankitabanerjeegithub?tab=repositories",
       // no liveDemoUrl for this one
@@ -182,7 +182,7 @@ export default function HeroSection() {
 
     {
       title: "3D-portfolio",
-      desc: "Full-stack banking web app built with MERN.",
+      desc: "A 3D-portfolio implemented by React.js and Three.js",
       imageUrl: myImage6,
       githubUrl: "https://github.com/sriankitabanerjeegithub/3Dportfolio",
       // no liveDemoUrl for this one
@@ -254,7 +254,7 @@ export default function HeroSection() {
           animate={{ y: 0, opacity: 1 }}
           transition={{ delay: 0.7 }}
         >
-          Passionate full-stack developer & 3D enthusiast. Let&apos;s build something amazing together! ✨
+          Passionate Web developer & 3D enthusiast. Let&apos;s build something amazing together! ✨
         </motion.p>
 
         <motion.div
@@ -317,7 +317,7 @@ export default function HeroSection() {
       </h2>
       <h3 className="text-2xl text-white mb-2">B.Tech final-year student</h3>
       <p className="text-white/80 leading-relaxed mb-2">
-        Hi there! I&apos;m Ankita, a B.Tech final-year student passionate about full-stack web
+        Hi there! I&apos;m Ankita, a B.Tech final-year student passionate about  web
         development and machine learning with a deep love for creating stunning 3D websites and immersive web apps.
       </p>
       <p className="text-white/80 leading-relaxed mb-2">
